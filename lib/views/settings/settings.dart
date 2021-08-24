@@ -128,7 +128,7 @@ class _ProfileState extends State<Profile> {
             'About',
           ),
           content: Text(
-            'Simple reading app by sheja',
+            'Simple reading app by sheja for enriching your brain',
           ),
           actions: <Widget>[
             FlatButton(
