@@ -10,6 +10,15 @@ are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books. <br>
 <br>
 
+## Screenshots
+
+<img src="screenshots/1.png" width="200">
+<img src="screenshots/2.png" width="200">
+<img src="screenshots/3.png" width="200">
+<img src="screenshots/4.png" width="200">
+<img src="screenshots/5.png" width="200">
+<img src="screenshots/6.png" width="200">
+
 ## 💻 Requirements
 
 - Any Operating System (ie. MacOS X, Linux, Windows)
