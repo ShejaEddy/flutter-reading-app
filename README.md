@@ -1,6 +1,6 @@
-# 📖📖 Flutter Soma App
+# Flutter Soma App
 
-A simple Flutter app to Read and Download books. The Books included in the app
+A simple Flutter app to Read and Download books, inspired from ebooks. The Books included in the app
 are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 (Expired Copyright and completely free).
 
